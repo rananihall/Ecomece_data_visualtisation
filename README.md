@@ -1,7 +1,7 @@
 PROJECT OBJECTIVE
 This project aims to analyze Target's e-commerce operations in Brazil, focusing on order trends, payment behavior, shipping performance, customer demographics, and product insights. The goal is to extract actionable insights that can help improve business strategies and operational efficiency.
 
-🔗 Dataset Link: Target Dataset on Kaggle
+🔗 Dataset Link: https://www.kaggle.com/datasets/devarajv88/target-dataset
 
 FINAL OUTCOME
 Comprehensive analysis of Target’s Brazilian e-commerce operations
